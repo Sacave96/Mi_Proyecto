@@ -1,0 +1,147 @@
+
+body  {
+    background:#2765AF url('../images/body_background.jpg') repeat-x 0 0; 
+    color:#000000;
+    margin:20px 0;
+    padding:0;
+    font-family:"Arial",sans-serif;
+    font-size:90%;
+}
+p  {
+    margin:0;
+    padding:0 0 15px 0;
+}
+a  {
+    color:black;
+    text-decoration:underline; 
+}
+a:hover  {
+    color:#225799; 
+    text-decoration:none;
+}
+#container  {
+    margin:0px auto;
+    text-align:center; 
+    width:760px; 
+}
+#algo  {
+    width:100%; 
+    padding:20px 20px 5px 20px;
+    background:white; 
+    text-align:left; 
+}
+#logotipo  {
+    background:url('../images/logo.gif') no-repeat 210px 0;
+    border-bottom:1px solid #DADADA;
+    padding:5px 30px 20px 0px;
+}
+#navegacion  {
+    padding:10px 0; 
+}
+#header  {
+    background:#DADADA url('../images/home_img.jpg') no-repeat 10px 10px; 
+    padding:10px;
+    height:200px; 
+}
+#contenido  {
+    float:left;
+    width:490px;
+    padding:20px 10px 0 0;
+    line-height:160%; 
+}
+#sidebar  {
+    float:right;
+    width:250px;
+    padding:20px 0;
+    line-height:140%; 
+    text-align:justify;
+}
+.derecha  {
+    padding:20px 20px 5px 20px; 
+    background:#FEFFD5;
+    border:1px solid #FFEB70;
+    font-size:90%; 
+    margin-bottom:20px;
+}
+#footer  {
+    clear:both;
+    width:100%; 
+    font-size:80%;
+    background-color:#dadada;
+    padding:20px;
+    text-align:left;
+    border-top:2px solid #2765AF;
+}
+#copyright	{
+    float:right;
+}
+.derecha h1  {
+    color:#225799;
+    margin:0 0 10px 0; 
+    padding:0; 
+    font-size:130%;
+    font-weight:normal;
+}
+#contenido h1  {
+    font-size:170%;
+    font-weight:normal;
+    line-height:130%; 
+    margin:0;
+    padding:0 0 20px 0; 
+}
+#logotipo h1  {font-weight:normal; 
+    font-size:170%; 
+    margin:0; 
+    padding:0; 
+    color:#225799; 
+}
+#navegacion ul  {
+    margin:0; 
+    padding:0;
+}
+#navegacion li  {
+    margin:0; 
+    padding:0; 
+    list-style:none; 
+    display:inline; 
+}
+#navegacion a  {
+    color:#225799;
+    padding:0 20px 0 0;
+    text-decoration:none;
+}
+#navegacion a:hover  {
+    color:black; 
+}
+#footer ul  {
+    margin:0;
+    padding:0; 
+}
+#footer li  {
+    margin:0; 
+    padding:0;
+    list-style:none; 
+    display:inline; 
+}
+#footer a  {
+    color:black; 
+    font-weight:bold;
+    padding:0 5px 0 0; 
+    text-decoration:underline;
+}
+#footer a:hover  {
+    color:black; 
+    text-decoration:none;
+}
+.princi:after  {
+    content:"."; 
+    display:block; 
+    height:0; 
+    clear:both; 
+    visibility:hidden;
+}
+
+
+
+
+
